@@ -1,3 +1,24 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "this",
+      "description": "is a great",
+      "id": 1
+    },
+    {
+      "title": "anza",
+      "description": "mwanzo",
+      "id": 2
+    },
+    {
+      "title": "anza",
+      "description": "mwanzo",
+      "id": 3
+    },
+    {
+      "title": "anza",
+      "description": "mwanzo",
+      "id": 4
+    }
+  ]
 }
